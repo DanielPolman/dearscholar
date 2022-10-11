@@ -21,14 +21,14 @@ The [Wiki section](https://github.com/pmkruyen/dearscholar/wiki) provides instal
 * For iOS devices (iPhones and iPads), download the app on [the App Store](https://apps.apple.com/us/app/dearscholar/id1577072187);
 * For Android devices, download the app on [Google Play](https://play.google.com/store/apps/details?id=net.peterkruyen.dearscholar).
 
-:wave: Dr. Daniel Polman has developed a solution to use DearScholar in combination with your own research server. Instructions will be posted soon here. Please contact the main author for more information.
+:wave: Update: a solution to use DearScholar in combination with your own research server has been implemented. Instructions will be posted on the Wiki. Please contact the main author for more information.
 
 ## Current research projects
 DearScholar is used in the following projects:
 * Diary study on public servants' creativity (2020 - 2021) by Glenn Houtgraaf MSc, dr. Peter M. Kruyen, and prof. dr. Sandra van Thiel.
 * Diary study on creativity in local-care teams (2021 - 2022) by Liesbeth Faas MSc, dr. Peter M. Kruyen, and prof. dr. Sandra van Thiel.
 * Diary study on nurses' work engagement (2022) by Renée Vermeulen MSc and Evelien van Leeuwen MSc.
-* Diary study (2022) by Dr Daniel Polman.
+* Diary study on political consumerism (2022) by dr. Daniel Polman, dr. Joana Wensing, and dr. Jose Lopez Rivas.
 
 ## Publications
 * Houtgraaf, G. (in press). Public sector creativity: Triggers, practices and ideas for public sector innovations. _Public Management Review_, 
